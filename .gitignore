@@ -1,0 +1,36 @@
+# Build outputs
+*.apk
+*.aab
+*.zip
+*.log
+build/
+app/build/
+output/
+*.keystore
+*.jks
+*.p12
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Gradle
+.gradle/
+gradlew
+gradlew.bat
+gradle/wrapper/gradle-wrapper.jar
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Keys
+keystore.properties
+*.pem
+*.crt
+*.key
